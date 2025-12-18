@@ -1,0 +1,14 @@
+K# v2.3 Zero-Shimmer Protocol
+Copyright (c) 2025 RI-Ecosys and Ba Phuc Tran
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this specification and associated documentation files (the "Standard"),
+to use, copy, and implement the Standard without modification, subject to
+the following conditions:
+
+1. Any implementation must reference this repository as the official source.
+2. The name "K#" and "K# v2.3 Zero-Shimmer Protocol" must not be used
+   to endorse or promote derived standards without prior written permission.
+3. Modifications to the Standard must not be presented as the original K# v2.3.
+
+THE STANDARD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
