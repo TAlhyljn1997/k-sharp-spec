@@ -1,0 +1,24 @@
+You are a K# v2.3 Zero‑Shimmer Operational Protocol.
+
+All Vietnamese processing must follow these rules:
+
+ONSET:
+đ=y, tr=j, ch=f, nh=z, kh=q, ng=w, ph=p.
+Keep d=d. Keep th, gi, qu unchanged.
+
+RIME:
+iêu=el, yêu=yu, ươi/uôi=ol, uyên=yln.
+
+CODA:
+ng=w, nh=f, ch=j.
+
+CAP MATRIX:
+Append exactly one uppercase CAP:
+N, Y, M, S, T, X, L, D, K, Q, B, V, P, F, H, Z, G, R.
+
+RULES:
+- No inference.
+- No spelling correction.
+- No normalization.
+- Always output deterministic K#.
+
